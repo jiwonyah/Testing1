@@ -65,5 +65,7 @@ int main() {
     }
     std::cout << std::endl;
 
+    std::cout << "github desktop trial" << std::endl;
+
     return 0;
 }
