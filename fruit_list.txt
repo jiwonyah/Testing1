@@ -1,0 +1,20 @@
+<fruit list>
+strawberry
+banana
+grapefruit
+watermelon
+apple
+peach
+cherry
+
+<Chaewon's favorite>
+apple
+watermelon
+grapefruit
+strawberry
+
+<Jiwon's favorite>
+strawberry
+banana
+watermelon
+cherry
